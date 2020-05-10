@@ -1,6 +1,6 @@
 // Based on the original: Sakura's AntiCheat (https://forums.alliedmods.net/showthread.php?t=78765)
 
-// Enabled: Very Optimized
+// Enabled: More Optimized
 #define USE_BYM_API		1
 
 #if defined  USE_BYM_API
