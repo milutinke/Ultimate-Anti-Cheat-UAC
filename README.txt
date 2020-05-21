@@ -80,7 +80,7 @@ Description:
 	 	NOTE: You are advised to install the latest stable version.
 
 	Recommended MetaMod Plugins:
-		- ReAuthCheker: https://c-s.net.ua/forum/topic84615.html
+		- ReAimDetector: https://c-s.net.ua/forum/topic84615.html
 
 	Future plans:
 		- No future plans, you as the community can take over the project.
