@@ -3,6 +3,8 @@
 					Version: 1.6
 ============================================================================================================
 
+NOTE: I am not providing any maintenance or support for this project, you are on your own.
+
 READ IN FULL-SCREEN MODE FOR BETTER EXPERIENCE!!!!
 Authors and Credits down bellow.
 
